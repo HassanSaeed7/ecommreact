@@ -7,7 +7,9 @@ function Navbar() {
       <div className="leftSide">
         <img src={Logo} alt=""/>
       </div>
-      <div className="rightSide"></div>
+      <div className="rightSide">
+      
+      </div>
     </div>
   );
 }
